@@ -1,4 +1,4 @@
-package Attempt1c1;
+package Attempt2c1;
 
 public class Main1 {
     public static void main(String[] args) {
