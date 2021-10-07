@@ -69,13 +69,13 @@ public class Main1h {
         if (selected == 0) {
             add();
         }
-        if (selected == 1) {
+        else if (selected == 1) {
             sub();
         }
-        if (selected == 2) {
+        else if (selected == 2) {
             mul();
         }
-        if (selected == 3) {
+        else if (selected == 3) {
             dev();
         }
         else {
