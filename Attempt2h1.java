@@ -1,4 +1,4 @@
-package com.Attempt2h1;
+package Attempt2h1;
 
 import java.util.Scanner;
 
